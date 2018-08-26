@@ -1,14 +1,47 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "hoahovan"
-  }
+	"user": {
+		"status": "successful",
+		"payload": {
+			"user": {
+				"account_id": "e85158c56f7958121d5f4df8",
+				"complete_mission_1": true,
+				"complete_mission_3": true,
+				"complete_mission_2": true,
+				"login_count": 23,
+				"matches": 10,
+				"simulate_matches": 3,
+				"nickname": "khachphieulang",
+				"id": 225907,
+				"uid": "409176975"
+			}
+		},
+		"comments": [{
+				"id": 1,
+				"hoa": "some comment",
+				"postId": 1
+			},
+			{
+				"id": 2,
+				"body": "some comment",
+				"postId": 1
+			}
+		],
+		"profile": {
+			"status": "successful",
+			"payload": {
+				"user": {
+					"account_id": "e85158c56f7958121d5f4df8",
+					"complete_mission_1": true,
+					"complete_mission_3": true,
+					"complete_mission_2": true,
+					"login_count": 23,
+					"matches": 10,
+					"simulate_matches": 3,
+					"nickname": "khachphieulang",
+					"id": 225907,
+					"uid": "409176975"
+				}
+			}
+		}
+	}
 }
