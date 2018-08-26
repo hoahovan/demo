@@ -20,7 +20,7 @@
 		"status": "successful",
 		"payload": {
 			"user": {
-				"can_redeem_span": false,
+				"can_redeem_span": true,
 				"account_id": "e85158c56f7958121d5f4df8",
 				"open_id": "",
 				"address": " Tòa nhà Kim Hoàn, ngõ 19 Duy Tân, Cầu Giấy, Hà Nội",
@@ -32,7 +32,7 @@
 				"full_name": "Ho Van Hoa",
 				"n_spin": 3,
 				"updated_info": true,
-				"n_span": 8,
+				"n_span": 18,
 				"nickname": "khachphieulang",
 				"id": 61250,
 				"uid": "409176975"
