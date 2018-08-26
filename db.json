@@ -31,7 +31,7 @@
 			"payload": {
 				"user": {
 					"account_id": "e85158c56f7958121d5f4df8",
-					"complete_mission_1": true,
+					"complete_mission_1": false,
 					"complete_mission_3": true,
 					"complete_mission_2": true,
 					"login_count": 23,
