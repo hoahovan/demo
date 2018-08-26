@@ -38,5 +38,11 @@
 				"uid": "409176975"
 			}
 		}
+	},
+	"spin": {
+		"status": "successful",
+		"payload": {
+			"n_spin": 3
+		}
 	}
 }
