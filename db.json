@@ -20,15 +20,21 @@
 		"status": "successful",
 		"payload": {
 			"user": {
+				"can_redeem_span": false,
 				"account_id": "e85158c56f7958121d5f4df8",
-				"complete_mission_1": false,
-				"complete_mission_3": false,
-				"complete_mission_2": false,
-				"login_count": 22,
-				"matches": 10,
-				"simulate_matches": 3,
+				"open_id": "",
+				"address": " Tòa nhà Kim Hoàn, ngõ 19 Duy Tân, Cầu Giấy, Hà Nội",
+				"created_after_event": false,
+				"n_update_info": 1,
+				"phone": "0868908168",
+				"n_span_redeemed": 1,
+				"avatar": "https://cdngarenanow-a.akamaihd.net/webmain/static/images/avatars/default.jpg",
+				"full_name": "Ho Van Hoa",
+				"n_spin": 3,
+				"updated_info": true,
+				"n_span": 8,
 				"nickname": "khachphieulang",
-				"id": 225907,
+				"id": 61250,
 				"uid": "409176975"
 			}
 		}
