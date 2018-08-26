@@ -42,7 +42,28 @@
 	"spin": {
 		"status": "successful",
 		"payload": {
-			"n_spin": 3
+			"item": {
+				"item_name": "TB Gold",
+				"item_id": 7
+			},
+			"user": {
+				"can_redeem_span": true,
+				"account_id": "e85158c56f7958121d5f4df8",
+				"open_id": "",
+				"address": " T\u00f2a nh\u00e0 Kim Ho\u00e0n, ng\u00f5 19 Duy T\u00e2n, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+				"created_after_event": false,
+				"n_update_info": 1,
+				"phone": "0868908168",
+				"n_span_redeemed": 1,
+				"avatar": "https://cdngarenanow-a.akamaihd.net/webmain/static/images/avatars/default.jpg",
+				"full_name": "Ho Van Hoa",
+				"n_spin": 1,
+				"updated_info": true,
+				"n_span": 12,
+				"nickname": "khachphieulang",
+				"id": 61250,
+				"uid": "409176975"
+			}
 		}
 	}
 }
